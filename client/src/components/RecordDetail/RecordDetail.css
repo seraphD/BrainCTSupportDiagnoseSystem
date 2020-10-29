@@ -1,0 +1,21 @@
+.center {
+    text-align: center;
+}
+
+.resultbox {
+    height: 100px;
+    padding: 30px 0 0 0;
+    font-size: 1.5em;
+}
+
+.CTimgs {
+    width: 102px;
+    height: 102px;
+    margin: 10px;
+}
+
+::-webkit-scrollbar{
+    display: none;
+
+}
+  

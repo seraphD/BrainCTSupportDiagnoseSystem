@@ -1,0 +1,28 @@
+.ant-upload-select-picture-card i {
+    color: #999;
+    font-size: 32px;
+  }
+  
+.ant-upload-select-picture-card .ant-upload-text {
+    margin-top: 8px;
+    color: #666;
+}
+
+.anticon:hover {
+  background-color: gray;
+}
+
+.clearfix {
+  width: 100%;
+  height: 100%;
+}
+
+.upload-area {
+  width: 100%;
+  height: 80%;
+}
+
+.btn {
+  width: 200px;
+  margin: 0 auto;
+}
