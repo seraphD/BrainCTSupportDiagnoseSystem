@@ -1,6 +1,6 @@
 # BrainCTSupportDiagnoseSystem
 
-This project aims to help brain CT doctors to quickli locate disease area and give reference diagnose.
+This project aims to help brain CT doctors to quickly locate disease area and give reference diagnose.
 
 Client folder contains web codes.
 
